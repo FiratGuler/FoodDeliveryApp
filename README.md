@@ -24,6 +24,6 @@ Uygulama, yiyecek verilerini sağlamak için aşağıdaki API endpoint'leri ile 
   - Yiyeceklerin listesi ve detayları bu endpoint üzerinden alınmaktadır.
   - Her yiyecek için resim, isim ve fiyat bilgileri yer almaktadır.
 
-![App Screenshot](./AppScreenShot/appViews.png)
+![App Screenshot](appViews.png)
 
 
